@@ -1,6 +1,8 @@
 # 정보처리기사
 
-### [1. 요구사항 확인](./InformaionEngineer_01.md)
+## 필기
+
+### [1. 요구사항 확인](./writen/InformaionEngineer_01.md)
 
 >1. 소프트웨어 생명주기
 >2. 스크럼(Scrum) 기법
@@ -12,7 +14,7 @@
 >8. 요구사항 확인 기법
 >9. UML(Unified Modeling Language)
 
-### [2. 화면 설계](./InformaionEngineer_02.md)
+### [2. 화면 설계](./writen/InformaionEngineer_02.md)
 
 >10. 사용자 인터페이스(UI)
 >11. UI 표준 및 지침
@@ -25,7 +27,7 @@
 >18. UI 상세 설계
 >19. HCI / UX / 감성공학
 
-### [3. 애플리케이션 설계](./InformaionEngineer_03.md)
+### [3. 애플리케이션 설계](./writen/InformaionEngineer_03.md)
 
 >20. 소프트웨어 아키텍쳐
 >21. 아키텍처 패턴
@@ -35,7 +37,7 @@
 >25. 코드
 >26. 디자인 패턴
 
-### [4. 인터페이스 설계](./InformaionEngineer_04.md)
+### [4. 인터페이스 설계](./writen/InformaionEngineer_04.md)
 
 >27. 시스템 인터페이스 요구사항 분석
 >28. 인터페이스 요구사항 검증
@@ -46,20 +48,20 @@
 >32. 시스템 인터페이스 설계서 작성
 >33. 미들웨어 솔루션 명세
 
-### [5. 데이터 입출력 구현](./InformaionEngineer_05.md)
+### [5. 데이터 입출력 구현](./writen/InformaionEngineer_05.md)
 
 > 34. 자료 구조
 > 35. DBMS
 > 36. 데이터 입출력
 > 37. 절차형 SQL
 
-### [6. 통합 구현](./InformaionEngineer_06.md)
+### [6. 통합 구현](./writen/InformaionEngineer_06.md)
 
 > 38. 단위 모듈 구현
 > 39. 단위 모듈 테스트
 > 40. 개발 지원 도구
 
-### [7. 제품 소프트웨어 패키징](./InformaionEngineer_07.md)
+### [7. 제품 소프트웨어 패키징](./writen/InformaionEngineer_07.md)
 
 > 41. 소프트웨어 패키징
 > 42. 릴리즈 노트 작성
@@ -70,7 +72,7 @@
 > 47. 소프트웨어 버전 관리 도구
 > 48. 빌드 자동화 도구
 
-### [8. 애플리케이션 테스트 관리](./InformaionEngineer_08.md)
+### [8. 애플리케이션 테스트 관리](./writen/InformaionEngineer_08.md)
 
 >49. 애플리케이션 테스트
 >50. 애플리케이션 테스트의 분류
@@ -84,7 +86,7 @@
 >58. 애플리케이션 성능 분석
 >59. 애플리케이션 성능 개선
 
-### [9. 인터페이스 구현](./InformaionEngineer_09.md)
+### [9. 인터페이스 구현](./writen/InformaionEngineer_09.md)
 
 >60. 모듈 간 공통 기능 및 데이터 인터페이스 확인
 >61. 모듈 연계를 위한 인터페이스 기능 식별
@@ -97,7 +99,7 @@
 >68. 인터페이스 구현 검증
 >69. 인터페이스 오류 확인 및 처리 보고서 작성
 
-### [10. 데이터 전환](./InformaionEngineer_10.md)
+### [10. 데이터 전환](./writen/InformaionEngineer_10.md)
 
 >70. 데이터베이스 설계
 >71. 데이터 모델의 개념
@@ -115,7 +117,7 @@
 >83. 반정규화
 >84. 시스템 카탈로그
 
-### [11. 물리 데이터베이스 설계](./InformaionEngineer_11.md)
+### [11. 물리 데이터베이스 설계](./writen/InformaionEngineer_11.md)
 
 >85. 사전 조사 분석
 >86. 데이터베이스 저장 공간 설계
@@ -134,7 +136,7 @@
 >99. 논리데이터 모델의 물리 데이터 모델 변환
 >100. 물리 데이터 모델 품질 검토
 
-### [12. SQL 응용](./InformaionEngineer_12.md)
+### [12. SQL 응용](./writen/InformaionEngineer_12.md)
 
 > 101. SQL의 개념
 > 102. DDL
@@ -144,7 +146,7 @@
 > 106. DML - SELECT2
 > 107. JOIN
 
-### [13. SQL 활용](./InformaionEngineer_13.md)
+### [13. SQL 활용](./writen/InformaionEngineer_13.md)
 
 > 108. 프로시저
 > 109. 트리거
@@ -154,7 +156,7 @@
 > 113. ORM(Object-Relation-Mapping)
 > 114. 쿼리 성능 최적화
 
-### [14. 데이터 전환](./InformaionEngineer_14.md)
+### [14. 데이터 전환](./writen/InformaionEngineer_14.md)
 
 >115. 데이터 전환
 >116. 데이터 전환 계획서 작성
@@ -163,7 +165,7 @@
 >119. 오류 데이터 측정 및 정제
 >120. 데이터 정제요청서 및 정제보고서
 
-### [15. 서버 프로그램 구현](./InformaionEngineer_15.md)
+### [15. 서버 프로그램 구현](./writen/InformaionEngineer_15.md)
 
 >121. 개발 환경 구축
 >122. 서버 개발
@@ -171,7 +173,7 @@
 >124. 배치 프로그램
 >125. 패키지 소프트웨어
 
-### [16. 프로그래밍 언어 활용](./InformaionEngineer_16.md)
+### [16. 프로그래밍 언어 활용](./writen/InformaionEngineer_16.md)
 
 > 126. 데이터타입
 > 127. 변수
@@ -189,7 +191,26 @@
 > 139. 예외 처리
 > 140. 프로토타입
 
-### [18. 소프트웨어 개발 방법론 활용](./InformaionEngineer_18.md)
+### [17. 응용 SW 기초 기술 활용](./writen/InformaionEngineer_17.md)
+
+> 141. 운영체제의 개념
+> 142. 윈도우
+> 143. UNIX / LINUX / MacOS
+> 144. 기억장치 관리의 개요
+> 145. 주기억장치 할당 기법
+> 146. 가상기억장치 구현 기법 / 페이지 교체 알고리즘
+> 147. 가상기억장치 기타 관리 사항
+> 148. 프로세스의 개요
+> 149. 스케줄링
+> 150. 환경변수
+> 151. 운영체제 기본 명령어의 개요
+> 152. 인터넷
+> 153. OSI 참조 모델
+> 154. 네트워크 관련 장비
+> 155. 프로토콜의 개념
+> 156. TCP / IP
+
+### [18. 소프트웨어 개발 방법론 활용](./writen/InformaionEngineer_18.md)
 
 >157. 소프트웨어 개발 방법론
 >158. 비용 산정 기법
@@ -201,7 +222,7 @@
 >164. 소프트웨어 개발 방법 테일러링
 >165. 소프트웨어 개발 프레임워크
 
-### [19. IT 프로젝트 정보시스템 구축 관리](./InformaionEngineer_19.md)
+### [19. IT 프로젝트 정보시스템 구축 관리](./writen/InformaionEngineer_19.md)
 
 > 166. 네트워크 관련 신기술
 > 167. 네트워크 구축
@@ -217,7 +238,7 @@
 > 177. 회복 / 병행제어
 > 178. 데이터 표준화
 
-### [20. 소프트웨어 개발 보안 구축](./InformaionEngineer_20.md)
+### [20. 소프트웨어 개발 보안 구축](./writen/InformaionEngineer_20.md)
 
 >179. Secure SDLC
 >
@@ -231,7 +252,7 @@
 >187. API 오용
 >188. 암호 알고리즘
 
-### [21. 시스템 보안 구축](./InformaionEngineer_21.md)
+### [21. 시스템 보안 구축](./writen/InformaionEngineer_21.md)
 
 > 189. 서비스 공격 유형
 > 190. 서버 인증
@@ -239,3 +260,12 @@
 > 192. 로그 분석
 > 193. 보안 솔루션
 > 194. 취약점 분석, 평가
+
+
+
+## 실기
+
+### 1. 현행 시스템 분석
+
+> 1. 현행 시스템 파악 개념
+> 2. 
